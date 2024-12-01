@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\updateEmployee\\updateEmployee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B579AC4F-81FF-490F-BD5F-E90BC124E41D}|updateEmployee\\updateEmployee.csproj|C:\\Users\\User\\Desktop\\updateEmployee\\updateEmployee\\updateemployee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B579AC4F-81FF-490F-BD5F-E90BC124E41D}|updateEmployee\\updateEmployee.csproj|solutionrelative:updateemployee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B579AC4F-81FF-490F-BD5F-E90BC124E41D}|updateEmployee\\updateEmployee.csproj|c:\\users\\user\\desktop\\updateemployee\\updateemployee\\updateemployee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579AC4F-81FF-490F-BD5F-E90BC124E41D}|updateEmployee\\updateEmployee.csproj|solutionrelative:updateemployee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\updateEmployee\\updateEmployee\\updateEmployee\\Form1.cs",
+              "RelativeDocumentMoniker": "updateEmployee\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\updateEmployee\\updateEmployee\\updateEmployee\\Form1.cs",
+              "RelativeToolTip": "updateEmployee\\Form1.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwGoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:06.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\updateEmployee\\updateEmployee\\updateEmployee\\Form1.cs",
+              "RelativeDocumentMoniker": "updateEmployee\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\updateEmployee\\updateEmployee\\updateEmployee\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "updateEmployee\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:10:21.297Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
